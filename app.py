@@ -12,11 +12,11 @@ st.markdown("**Approach**:")
 
 st.markdown("1.Dataset: This project uses the dataset called hate_speech_offensive, which contained over 20000 tweets all labeled manually into three categories, offensive, hate or newtral.")
 
-data_distribution1 = Image.open('images/1.jpeg')
+data_distribution1 = Image.open('images/1.png')
 st.image(data_distribution1)
 
 st.markdown("However, as the figure shows, the data is heavily imbalanced, and an under-sampling method was applied. The result is as followings:")
-data_distribution2 = Image.open('images/2.jpeg')
+data_distribution2 = Image.open('images/2.png')
 
 st.image(data_distribution2)
 
