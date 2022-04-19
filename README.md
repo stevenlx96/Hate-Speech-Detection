@@ -10,3 +10,4 @@ pinned: false
 ---
 
 # Hate-Speech-Detection
+space: https://huggingface.co/spaces/stevenlx96/Hate-Speech-Detection
